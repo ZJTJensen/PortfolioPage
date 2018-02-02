@@ -1,0 +1,75 @@
+* {
+    
+    border: 1px solid black;
+    }
+    
+
+    #top-leve{
+        
+        position: fixed;
+    }
+    #wrapper{
+        width: 1000px;
+        height: auto;
+        margin: 0 auto;
+    }
+    
+    #web{
+        display: inline-block;
+        text-align: right;
+        vertical-align: top;
+    }
+    #game{
+        display: inline-block;
+    }
+    #game-img{
+        display: inline-block;
+        width: 600px;
+    }
+    #img-txt{
+        width: auto;
+        height: auto;
+        margin: 0 auto;
+    }
+
+    #me{
+        height: 200px;
+        width: 200px;
+
+        border-radius: 50%;
+        /* display: inline-block; */
+    }
+    #description1{
+        display: inline;
+    }
+    #myBtn{
+        display: none;
+    }
+    .code{
+        width: 450px;
+        background: rgba(210, 180, 140, 0.809);
+        border: 1px solid black;
+    
+    }
+    #Python{
+        width: 500px;
+        margin: 0 auto;
+        
+    }
+    #MEAN{
+        width: 500px;
+        margin: 0 auto;
+    }
+    #JAVA{
+    width: 500px;
+        margin: 0 auto;
+        
+    }
+
+    .center{
+        text-align: center;
+    }
+    #work-examples{
+        margin: 0 auto;
+        text-align: center;
+    }
